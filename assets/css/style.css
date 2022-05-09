@@ -35,9 +35,9 @@ html[data-theme="light"] {
 
 html[data-theme="dark"] {
   --bg-mybtn: rgb(230, 109, 129);
-  --bg-nav: #6617cb;
-  --bg-nav-img: linear-gradient(315deg, #6617cb 0%, #882463 74%);
-  --bg-footer: linear-gradient(315deg, #6617cb 0%, #882463 74%);
+  --bg-nav: #1759cb;
+  --bg-nav-img: linear-gradient(315deg, #1759cb 0%, #882463 74%);
+  --bg-footer: linear-gradient(315deg, #1759cb 0%, #882463 74%);
   --bg: #191919;
   --text: #ffffff;
   --text-color: #fff;
@@ -116,7 +116,7 @@ body {
 #btnScrollToTop {
   width: 50px;
   height: 50px;
-  background-color: #266cfa;
+  background-color: rgb(3, 156, 251);
   color: #fff;
   margin: 8px;
   border: none;
@@ -902,7 +902,7 @@ form {
 
 .form-style-6 input[type="submit"]:hover,
 .form-style-6 input[type="button"]:hover {
-  background:#6a00bbd2;;
+  background:blue;;
 
 }
 
